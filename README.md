@@ -1,6 +1,7 @@
-# Patika.dev-projeleri
-www.patika.dev
+# Patika.dev Projeleri
 
-https://app.patika.dev/infinitylrd
+Site www.patika.dev
+
+Profil https://app.patika.dev/infinitylrd
 
 Insertion Sort: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
