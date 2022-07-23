@@ -1,4 +1,4 @@
-# Patika.dev-Insertion-Sort-Projesi
+# Patika.dev-projeleri
 www.patika.dev
 
 https://app.patika.dev/infinitylrd
