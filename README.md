@@ -1,5 +1,6 @@
 # Patika.dev-Insertion-Sort-Projesi
 www.patika.dev
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 
 [22,27,16,2,18,6] -> Insertion Sort
 
